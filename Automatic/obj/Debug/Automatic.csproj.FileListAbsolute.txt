@@ -1,0 +1,10 @@
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\bin\Debug\Automatic.exe.config
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\bin\Debug\Automatic.exe
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\bin\Debug\Automatic.pdb
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\obj\Debug\Automatic.csprojAssemblyReference.cache
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\obj\Debug\Automatic.Automatic.resources
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\obj\Debug\Automatic.Properties.Resources.resources
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\obj\Debug\Automatic.csproj.GenerateResource.cache
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\obj\Debug\Automatic.csproj.CoreCompileInputs.cache
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\obj\Debug\Automatic.exe
+F:\Work\Work\Vs\自动关机\Automatic\Automatic\obj\Debug\Automatic.pdb
